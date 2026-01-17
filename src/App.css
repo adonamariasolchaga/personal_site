@@ -1,0 +1,14 @@
+/* App specific styles can go here, or we can use modular css */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.content-wrapper {
+  width: 100%;
+  max-width: 1200px;
+  padding: 0 1rem;
+}
