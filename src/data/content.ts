@@ -7,7 +7,7 @@ export const content = {
             github: "https://github.com/adonamariasolchaga",
             linkedin: "https://www.linkedin.com/in/alvaro-donamaria-solchaga/",
             email: "mailto:donamariasolchagaa@gmail.com",
-            resume: "/cv.pdf"
+            resume: "cv.pdf"
         }
     },
     experience: [
