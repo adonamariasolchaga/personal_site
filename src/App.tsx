@@ -2,6 +2,7 @@ import './App.css'
 import Hero from './components/Hero'
 import Experience from './components/Experience'
 import Education from './components/Education'
+import Contact from './components/Contact'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Hero />
         <Experience />
         <Education />
+        <Contact />
         <main>
           {/* Components will go here */}
         </main>
