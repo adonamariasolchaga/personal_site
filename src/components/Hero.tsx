@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
 
                 <div className="hero-actions">
                     <a href="#contact" className="primary-btn">Contact Me</a>
-                    <a href="#" className="primary-btn" style={{ background: 'transparent', border: '2px solid var(--accent-primary)', color: 'var(--accent-primary)', boxShadow: 'none' }}>Download CV</a>
+                    <a href={social.resume} download className="primary-btn" style={{ background: 'transparent', border: '2px solid var(--accent-primary)', color: 'var(--accent-primary)', boxShadow: 'none' }}>Download CV</a>
                 </div>
 
                 <div className="social-links">
